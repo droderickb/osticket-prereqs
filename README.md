@@ -65,3 +65,33 @@ As your installing MySql select typical setup--> launch configuration Wizard--> 
 
 Open IIS as an administrator. Register PHP from within IIS. 
 
+![image](https://github.com/droderickb/osticket-prereqs/assets/138819497/904d3897-3f8c-4639-9c09-84c48aa6075a)
+
+
+
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
+
+Note that some extensions are not enabled
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browse, observe the changes
+
+Rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+Assign Permissions: ost-config.php
+Disable inheritance -> Remove All
+New Permissions -> Everyone -> All
+
+Continue Setting up osTicket in the browser (click Continue)
+Name Helpdesk
+Default email (receives email from customers)
+
+
+
