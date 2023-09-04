@@ -26,6 +26,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+![image](https://github.com/droderickb/osticket-prereqs/assets/138819497/f88ac4fd-f052-4a74-929e-da3075db327b)
+
+Create Virtual Machine ( I chose Azure VM with Windows 10 Operating System)
+
+
+![image](https://github.com/droderickb/osticket-prereqs/assets/138819497/049db991-0861-4c59-9b60-46411c36e988)
+
+Use Remote Desktop to log into VM
+
 <p>
   
 ![image](https://github.com/droderickb/osticket-prereqs/assets/138819497/56bf53ab-9b15-452e-941d-a9e08e1487a7)
