@@ -46,7 +46,7 @@ Right click the start menu. Select "Run". Type "Control" for the contol panel sn
 
 </p>
 <p>
-After enabling IIS Windows and HTTPS features, intall and download the following files ; PHP Manager or IIS, Rewrite Module, PHP, VC Redist, & MySQL 
+After enabling IIS Windows and HTTPS features, intall and download the following files ; PHP Manager or IIS, Rewrite Module, PHP, VC Redist, MySQL, & OsTicket 
 </p>
 <br />
 
