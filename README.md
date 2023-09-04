@@ -46,14 +46,22 @@ Right click the start menu. Select "Run". Type "Control" for the contol panel sn
 
 </p>
 <p>
-After enabling IIS Windows and HTTPS features, intall and download the following files ;
+After enabling IIS Windows and HTTPS features, intall and download the following files ; PHP Manager or IIS, Rewrite Module, PHP, VC Redist, & MySQL 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/droderickb/osticket-prereqs/assets/138819497/6f9ad069-efb8-4939-97fc-be2ccf536301)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As your installing MySql select typical setup--> launch configuration Wizard--> Standard Configuration --> Select Password (Enter password of your choice)  
 </p>
 <br />
+
+![image](https://github.com/droderickb/osticket-prereqs/assets/138819497/7ce30a7f-4f96-4f05-b429-4287a4d7270a)
+
+Open IIS as an administrator. Register PHP from within IIS. 
+
